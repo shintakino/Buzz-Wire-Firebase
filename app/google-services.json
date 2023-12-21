@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "78216694950",
+    "firebase_url": "https://buzzwiregameinterface-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buzzwiregameinterface",
+    "storage_bucket": "buzzwiregameinterface.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78216694950:android:77bd6bffdadac3e1a8f867",
+        "android_client_info": {
+          "package_name": "com.example.buzzwire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKAnA0SbXha2L-70GMvysDNa0-cJu-3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
